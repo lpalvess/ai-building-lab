@@ -2,7 +2,7 @@
 
 **A cada sessão, uma tendência quente de IA vira um projeto pequeno, funcional e fácil de demonstrar.** Este é o laboratório público do Lucas para explorar vibe coding, skills, MCPs, agentes, automações e ideias de SaaS enquanto testa ferramentas de desenvolvimento com IA em situações reais.
 
-O ciclo tem 14 projetos. Os temas são escolhidos no dia: pesquisamos o que está chamando atenção, avaliamos ideias com fontes atuais e selecionamos uma para transformar em algo que as pessoas possam experimentar.
+O primeiro ciclo tem 7 projetos, um por sessão. Os temas são escolhidos no dia: pesquisamos o que está chamando atenção, avaliamos ideias com fontes atuais e selecionamos uma para transformar em algo que as pessoas possam experimentar.
 
 ## Como funciona
 
@@ -37,4 +37,4 @@ days/
     README.md
 ```
 
-O ciclo termina após 14 projetos. Os três mais úteis ganham destaque neste README, com base nas entregas e no que aprendi construindo-os.
+O primeiro ciclo termina após 7 projetos. No fim, os projetos mais úteis ganham destaque neste README, com base nas entregas e no que aprendi construindo-os. Depois decidimos se e como continuar.

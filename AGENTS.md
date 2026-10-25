@@ -9,6 +9,8 @@ Quando o Lucas iniciar um novo dia:
 5. Crie `days/NN-slug/README.md` com o problema, por que o tema está em alta, fontes, como experimentar, ferramentas usadas, verificações reais e limitações. Não apresente mocks como integrações reais.
 6. Atualize a tabela do README principal com links para o projeto e para seu README.
 
+O ciclo atual tem no máximo 7 projetos. Quando os 7 forem concluídos, faça uma retrospectiva breve e aguarde o Lucas decidir se começa outro ciclo.
+
 Use dados sintéticos e mantenha credenciais fora do repositório. Não faça chamadas pagas, deploy ou publicação em redes sociais sem o pedido do Lucas.
 
 Anotações privadas sobre custo, tempo e avaliação pessoal ficam em `.local-evaluation/` e nunca entram no Git. Não invente medições ou a opinião do Lucas.
